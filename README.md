@@ -40,7 +40,7 @@ Users browse store listings with color-coded dietary badges (vegan, gluten-free,
 ## Getting Started
 
 ```bash
-git clone https://github.com/codingtemple17/toogoodtogo.git
+git clone https://github.com/jonelrichardson-spec/toogoodtogo.git
 cd toogoodtogo
 npm install
 npm run dev
